@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+bcrypt
+sqlite3
+openai
+pillow
